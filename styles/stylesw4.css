@@ -122,3 +122,11 @@ nav a:hover {
 nav li.active a {
   color: var(--branding-color);
 }
+
+.footer {
+  text-align: center;
+}
+
+.contact-icon{
+  margin-left: 15px;
+}
