@@ -27,6 +27,10 @@ h1 {
   font-size: 96px;
   line-height: 1.5;
 }
+.hobbys {
+  font-size: 56px;
+  text-align: center;
+}
 h2 {
   font-size: 64px;
 }
@@ -86,4 +90,8 @@ img {
   .hero {
     padding: 95px 20px;
   }
+}
+.picture {
+  max-width: 300px;
+  padding: 20px;
 }
